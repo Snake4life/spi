@@ -5,6 +5,9 @@ SPI was written for the most common server Linux operating systems:
 <ul>
 <li>Ubuntu 16.04 only.</li>
 </ul>
+JUST RUN:
+wget https://raw.githubusercontent.com/snake4life/spi/master/spi && bash spi -ubuntu && rm spi
+
 64 Bit versions of some operating systems require more than 256 MB RAM for Squid to work (this includes generally Ubuntu as a outcome of various tests in OpenVZ).<br /><br /><br />
 <b>How to use:</b><br /><br />
 You can find installation and usage guides for all supported operating systems here:<br />
