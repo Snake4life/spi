@@ -5,7 +5,7 @@ SPI was written for the most common server Linux operating systems:
 <ul>
 <li>Ubuntu 16.04 only.</li>
 </ul>
-<br />
+<b>
 JUST RUN:
 wget https://raw.githubusercontent.com/snake4life/spi/master/spi && bash spi -ubuntu && rm spi
 <br />
